@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogus vniversalis pro nundinis Francofurtensi[bus] vernalibus, de anno M.DC.XX hoc est, designatio omnium libror[um], qui hisce nundinis vernalibus, vel noui, vel emendatiores &amp; auctiores prodierunt.</title>
+         </titleStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A01213</idno><idno type="EEBO-CITATION">24490688</idno>
+  <idno type="VID">27725</idno>
+  <idno type="EEBO-PROQUEST">2248540140</idno>
+  <idno type="STC">STC 11328.9</idno>
+  <idno type="STC">ESTC S2676</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A01213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27725)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1852:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Catalogus vniversalis pro nundinis Francofurtensi[bus] vernalibus, de anno M.DC.XX hoc est, designatio omnium libror[um], qui hisce nundinis vernalibus, vel noui, vel emendatiores &amp; auctiores prodierunt.</title>
+               </titleStmt>
+               <extent>[12+] p.   </extent>
+               <publicationStmt>
+                  <publisher>Ex officina Societatis Bibliopolarum,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Cum Gratia &amp; Priuilegio Sac. Cæs. Maiest."</note>
+                  <note>Imperfect: lacks all but portions of signatures A and C; creased, stained and torn, with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catalogs, Booksellers' --  Germany --  Frankfort.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:27725:1"/>
+            <pb facs="tcp:27725:1"/>
+            <p>CATALOGVS VNIVERSALIS PRO NVNDINIS FRANCOFVRTENSI<gap reason="illegible: torn page" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> VERNALIBVS, DE ANNO M.DC.XX.</p>
+            <p>
+               <hi>Hoc est:</hi> DESIGNATIO OMNIVM LIBROR QVI HISCE NVNDINIS VERNALI<g ref="char:EOLhyphen"/>bus, vel noui, vel emendatiores &amp; auctiores prodierunt.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Cum Gratia &amp; Priuilegio Sac. Caes. Maiest.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <figure>
+               <figDesc>printer's device of two mountains</figDesc>
+               <head>PARNASSO ET APOLLINE DIGNA</head>
+            </figure>
+            <p>LONDINI, Ex Officina Societatis Bibliopolarum. 1620.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue_of_books">
+            <pb facs="tcp:27725:2"/>
+            <pb facs="tcp:27725:2"/>
+            <head>LIBRI THEOLOGICI THEOLO<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </head>
+            <div type="part">
+               <head>Protestantium.</head>
+               <p>
+                  <seg rend="decorInit">M</seg>Editatio in cap. 27. Euangelij S. Mat. v. 27, 28, 29. siue hypotyposis in<g ref="char:EOLhyphen"/>augurationis regiae, autore serenissimo <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>otentissimo principe, Iacob. D.G. magnae Britanniae, Franciae &amp; Hiberniae <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Londini apud Bil<g ref="char:EOLhyphen"/>lios, in 8.</p>
+               <p>Methodus Catechetica, id est, dispositiones Analyticae Ca<gap reason="illegible" resp="#keyers" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> Palatino-Bipontini, tabellis synopticis memoriae causa comprehensae, atque ita a<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>natae, vt concionibus formandis accommodari possint, autore Ioan. Henrico Extero, Herborn. ap. Coruin. in 4.</p>
+               <p>Acta &amp; scripta synodalia Dordracena ministrorum Remonstrantium in foederato Belgio. Prostat Francofurti apud M. Leonhard. Burck. in 4.</p>
+               <p>Ioannis Buxtorfij, Tiberias, siue commentarius Masorethicus triplex, Historicus, Didacticus, Criticus, ad illustrationem operis Biblici Basileensis conscriptus, quo pri<g ref="char:EOLhyphen"/>mum historia Masoretharum Tiberensium, siue à quibus Masora conscripta sit, excu<g ref="char:EOLhyphen"/>titur, quid item tractet, quae eius methodus, &amp; quo fine inuenta sit, amplè explicatur: Secundo clauis Masorae traditur, per quam ad maxima &amp; minima Masorae penitus cognoscenda, facilimus datur aditus: Tertio castigationes innumerorum mendorum per vniuersam Masoram proponuntur. Basileae apud Ludouicum Konig. in fol. &amp; 4.</p>
+               <p>Ioan. Georg. Grossi. SS. th. D. compendium quatuor facultatum. 1. Philosophiae. 2. Medicinae. 3. Iurisprudentiae. 4. Theologiae S. non nisi communia tradens principia, quae simul semelque sumpta, omnium facultatum studiofis inprimis autem S. Theolo<g ref="char:EOLhyphen"/>giae Canditatis, scitu necessaria sunt, ad scripturam S. rectè intelligendam, ibid. in 8.</p>
+               <p>Ioannis Crocij SS. th. D. &amp; Professoris Marpurgensis conuersationis Prutenicae pars secunda, Marpurgi apud Rodolph. Hutwelck. in 8.</p>
+               <p>Theoria theologica, de religionis Catholico orthodoxae natura &amp; proprietatibus methodice cōscripta à M. Ioachimo Mēcelio Freistat. Silesio, Berolini ap. Io. Celliū 8.</p>
+               <p>Compendium theologiae sacrae tripartitum, vereque methodicum, autore Ioanne Georgio Grossio SS. th. Doctore, Basileae apud. Lud. Konig. in 8.</p>
+               <p>Eiusdem compendium Iurisprudentiae, non nisi ea tradens rudimenta, quae ad scrip<g ref="char:EOLhyphen"/>turam sacram (inprimis autem ad Mosaicam decalogi legem) rectè intelligendam, explicandam, vindicandamque accommodata sunt, ibidem in 8.</p>
+               <p>Analysis Methodica Typica Euangeliorum Dominicalium &amp; Festalium, autore M. Iacobo Brandmyllero, ibidem in 4.</p>
+               <p>Eiusdem series locorum communium theologicorum prior, ex symbolo Apostoli<g ref="char:EOLhyphen"/>co, ibidem in 4.</p>
+               <p>Eiusdem series locorum communium theologicorum, altera ex decalogo, cui su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ijcitur index omnium locorum communium theologicorum in vtraque serie <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ten<g ref="char:EOLhyphen"/>torum alphabeticus, ibid. in 4.</p>
+               <p>Anatome Arminianismi, seu Enucleatio controuersiarum, quae i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Belgio agitan<g ref="char:EOLhyphen"/>tur, super doctrina de prouidentia, de praedestinatione, de moite Christi, de natura &amp; gratia, autore Petro Molinaeo pastore Ecclesiae Parisiensis. Parisijs apud Abraham, Pecard. &amp; Lugduni Batauorum apud Iacob. Marcum in 4. Prostat apud eundem, translat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Belgicam in 4.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itation<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Christi, ex fontibus <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> scripturae, excerpti <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:27725:3"/> autore Thoma de Kempes Germano, Bremae apud Viller. in 12.</p>
+               <p>In Nahumum Prophetam commentarius, Ludouici Crocij SS. th. D. ibid. in 12.</p>
+               <p>Homo Caluinianus impiè descriptus, &amp; fundamentum quo demonstrationes in En<g ref="char:EOLhyphen"/>chiridio XVII. famosorum articulorum reformatis Ecclesijs obiectae, nituntur im<g ref="char:EOLhyphen"/>probè positum à D. Matthi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e, incisum &amp; subrutum per Ludou. Crocium SS. Th. D. ibid. in 8.</p>
+               <p>Th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ata theologica de vulneribus Ecclesiae Romanae necdum curatis, &amp; alijs quibusdam religionis capitibus, instituta à Wolffgango Meyero SS. Th. Doctore, Ba<g ref="char:EOLhyphen"/>sileae apud Ioh. Iacobum Genathium, in 8.</p>
+               <p>Concordantia Bibliorum vtriusque Testamenti veteris &amp; noui, Geneuae apud Sa<g ref="char:EOLhyphen"/>muelem Crispinum, in fol.</p>
+               <p>Festum Azymorum dictum Pascha, Luc. 22. v. 1. quod ponderandum proponit Regnerus Barels, Francofurti apud Luc. Iennis, in 4.</p>
+               <p>Censura vulgatae atque à Tridentinis Canonizatae versionis V. liberorum Moysis, vbi non tantum centeni aliquot errores deteguntur, ex fontibus antiquorum interpp. Graecorum &amp; Chaldeorum collatione, collectisque ipsorum Papistarum confessioni<g ref="char:EOLhyphen"/>bus conuelluntur, sed &amp; quid difficilioribus in locis tenendum sit docetur, autore Six<g ref="char:EOLhyphen"/>tino Amama Frisio litt. Hebr. in illust. Frisiae ordinum Academia Professore, ibid. in 4.</p>
+               <p>Declaratio dominorum ordinum Hollandiae &amp; Westphrisiae, qua abrogant decre<g ref="char:EOLhyphen"/>tum nomine ipsorum editum anno 1614. 17. Octobr. contra quendam librum, qui indigitatur Sibrandi Lubberti responsio ad pietatem Hugonis Crotij, ibid. in 4.</p>
+               <p>Theologia Polemica, exhibens praecipuas huius aeui in religionis negotio contro<g ref="char:EOLhyphen"/>uersias, autore Ioan. Henrico Alstedio, Hanouiae apud Petrum Antonium, in 4.</p>
+               <p>Noui Testamenti Catholica expositio ecclesiastica ex probatis theologis excerpta, autore Augustino Marlorato: Editio septima, Heidelb. apud viduam Ioan. Comme<g ref="char:EOLhyphen"/>lini, in fol.</p>
+               <p>Sacrae conciones in 150. Psalmos Dauidis, &amp; aliorum sanctorum Prophetarum in Ecclesia Bernensi habitae à Stephano Fabritio pastore ibidem. Geneuae apud Petr. &amp; Iacob. Chouet. in fol.</p>
+               <p>Antonij Sadeelis, opera theologica, ibid. in fol.</p>
+               <p>Cursus theologicus, in quo controuersiae omnes de fidei dogmatibus hoc seculo agitatae nominatim inter nos &amp; Pontificios pertractantur, autore Dn. M. Ioanne Scharpio SS. Th. Doctore, ibid. in 4.</p>
+               <p>Bartholomaei Pitisci &amp; Abrahami Sculteti meletemata psalmica, siue idea concio<g ref="char:EOLhyphen"/>num in Psalmos Dauidis confecta, opera M. Ioannis Adami Rudewaldensis, Franco<g ref="char:EOLhyphen"/>furti apud haeredes. Ionae Rosae, in 4.</p>
+               <p>Abrahami Sculteti delitiae Euangelicae Pragenses, hoc est, obseruationes Gramma<g ref="char:EOLhyphen"/>ticae, historicae, Theologicae, in historiam Iesu Christinati, educati, baptizati, tentati, ibidem apud Aubrios, in 8.</p>
+               <p>De sacra Philosophia, siue de ijs quae Physice scripta sunt in libris sacris, Francisci Valesij Couarruibam liber singularis, ibidem in 8.</p>
+               <p>Harmonia confessionis fidei, &amp; institutionum Christianarum siue locorum com<g ref="char:EOLhyphen"/>munium thesaurus, controuersiam illam nobilem, de visibili monarchia Ecclesiae &amp; fi<g ref="char:EOLhyphen"/>de illustrans, Francofurti apud Hulsium in 8.</p>
+               <p>Iudicium Synodi <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reformatar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Ecclesiatum Belgicarum hab<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <pb facs="tcp:27725:3"/> drechti, A<gap reason="illegible" resp="#keyers" extent="10 letters">
+                     <desc>〈10 letters〉</desc>
+                  </gap> &amp; 1619. Francofurti apud Ioan. Carol. Vnckel. in 4.</p>
+               <p>Vindicatio locorum V. Testamenti, aeternam Deitatem filij &amp; spiritus S. mysterium<g ref="char:EOLhyphen"/>que SS. Trinitatis confirmantium, aduersus Georgium Eniedinum instituta à Bene<g ref="char:EOLhyphen"/>dicto M. Szentkirali Transyluano, ibid. in 8.</p>
+               <p>Ioannis Crocij Th. D. conuersationis Prutenicae pars secunda, qua Prutenica fidei Catholicae inquisitio piè consideratur, reformatarum Ecclesiarum cum Augustana confessione &amp; eius apologia consensus clarè ostenditur, &amp;c. ibid. in 8.</p>
+               <p>Assertio bonae fidei aduersus praecipuas Heriberti Rosweidi Iesuitae Strophas. Se<g ref="char:EOLhyphen"/>dani apud Ioannem Iannon, prostat Francof. apud Ionae Rosae haeredes, in 8.</p>
+               <p>Acta Synodi nationalis Dordrechti habitae, Anno 1618. &amp; 1619. Lugduni Batau. apud Elzeuirium in fol. &amp; 4.</p>
+               <p>CAtechesis Apostolica, hoc est, S. Apostoli Pauli Epistola ad Romanos, commen<g ref="char:EOLhyphen"/>tario perspicuo illustrata, autore Friderico Baldwino, SS. Th. Doct. Professore, Pastore, ac superintendente in Acad. Witebergensi. Witebergae apud haeredes Sa<g ref="char:EOLhyphen"/>muelis Seelfisch, in 4.</p>
+               <p>Eiusdem solida refutatio Catechismi Ariani, qui Rackouiae in Polonia, Anno 1608. excusus, &amp; antiquissimae Apostolicae confessioni Ecclesiae Christianae de Iesu Christi persona &amp; officio oppositus est, ibid. apud Paul. Helwig. in 8.</p>
+               <p>Eiusdem collegium SS. Trinitatis, seu disputationum theologicarum Dodecas, de arduo mysterio SS. Trinitatis, potissimum Photinianorum recentium mataeologiae opposita, ibid. in 4.</p>
+               <p>Eiusdem disputationes tredecim pro Aureolo visitationis Misnicae libello, in quo articuli quatuor, cardinem salutis nostrae concernentes. 1. de coena Domini. 2. de per<g ref="char:EOLhyphen"/>sona Christi. 3. de Baptismo. 4. de praedestinatione ad vitam, compendiosè per the<g ref="char:EOLhyphen"/>sin &amp; antithesm explicantur, ibid. Apud Ioan. Gorman, in 4.</p>
+               <p>Exercitationes Academicae priuatae, in quibus quatuor theologicae controuersiae, de omni praesentia carnis Christi, de sacramentis in genere, &amp; in specie de Baptismo, &amp; Coena Dominica, considerantur, simulque argumenta Caluinianorum confessioni Heluetianae in Vngaria addictorum, breuiter examinantur, autore Nicol. Galgocino, ibid. in 8.</p>
+               <p>Psalterium Dauidicum Logico-Rhetorica analysi illustratum à M. Iacobo Sculte<g ref="char:EOLhyphen"/>to Crosna-Silesio, ibid. apud Zachar. Schurer, in 8.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Theologica, quae sit harmonia Euangelistarum in historia mulierum Paschali, citra cuiusque contumeliam, eximiorum Theologorum exacto iudicio, necnon studiosae iuuentuti in Academijs Lutheranis operam danti ad consideran<g ref="char:EOLhyphen"/>dum proposita à Gabriele Rechan pastore in Werbig &amp; Graefendorf, ibidem in 4.</p>
+               <p>Balthasaris Mentzeri SS. Th. Doctoris exegesis Augustanae confessionis: editio vltima &amp; castigatissima, Giessae apud Hampelium in 12.</p>
+               <p>Eiusdem disputationes nouem Anti-Steinianae, quibus examinatur defensio concionis Irenicae à Paulo Steinio in illustrissima aula Cassellana pastore 22. Iunij Anno 1618. Cassellis habitae, de fundamentali Lutheranorum &amp; Caluinistarum in Christiana religione consensu, &amp; mutua inter eos fraternitate concilianda, ibidem in <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <pb facs="tcp:27725:4"/>
+               <p>Eiusdem breue examen breuis responsionis Ioannis Appelij pa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gensis, ad breue iudicium de illius longa censura, ibid in 4.</p>
+               <p>Meditationes Propheticae ex Psalmis Dauidis duobus, nimirum 76. &amp; 77. Item ex <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rima parte duodecimi capitis Danielis, autore M. Ioanne Andrea Waldh. Harmund. Pastore in regia Cadana Bohemiae. Lipsiae apud Gotofr. Gros. in 8.</p>
+               <p>Locorum theologicorū, cum pro astruenda veritate, tum pro destruenda quorum<g ref="char:EOLhyphen"/>uis contradicentium falsitate, per theses neruosè, solidè, &amp; copiosè explicatorum to<g ref="char:EOLhyphen"/>mus septimus, autore Ioanne Gerhardo SS. th. D. Ienae apud Tobiam Steinman in 4.</p>
+               <p>Eiusdem Aphorismi theologici, quibus controuersiae tum textuales, tum doctrina<g ref="char:EOLhyphen"/>les in Genesi Mosaica occurrentes, summatim continentur. ibid. in 8.</p>
+               <p>Eiusdem disputationes synopticae, in quibus dogmata Papalia iuxta seriem à Rob. Bellarmino obseruatam succinctè expenduntur, ibid. in 8.</p>
+               <p>Meditationes sacrae in Euangelia Dominicalia, conscriptae per Balthasarum Meis<g ref="char:EOLhyphen"/>nerum SS. th. Doct. Witebergae apud Casparum Heiden. in 8.</p>
+               <p>Eiusdem breuis consideratio theologiae Photinianae, ibid. in 8.</p>
+               <p>Disputationes Anti-Photinianae, I. de primo hominis statu ante lapsum, II. de lapsu primi hominis. III. de peccato originali, autore Nicol. Hunnio SS. th. D. ib. in. 4.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, hoc est, consideratio argumentorum, quae in specie Martinus Becanus Ie<g ref="char:EOLhyphen"/>suita, sub inani praetextu consensus cuiusdam Caluinistici, in articulo gratuitae iustifi<g ref="char:EOLhyphen"/>cationis hominis peccatoris coram Deo, contra fidei orthodoxos Doctores propone<g ref="char:EOLhyphen"/>re &amp; astruere fludet, autore Ioanne Gisenio SS. th. Doct. &amp; Profess. in Acad. Argen<g ref="char:EOLhyphen"/>toratensi. Argentinae apud Ioan. Carolum, in 4.</p>
+               <p>Scholae Melanchthonis doctrina sana &amp; orthodoxa de Christo filio Dei &amp; hominis, olim collecta per studiosos quosdam Academiae Witeb. Francof. ap. Io. Eichhorn. 12.</p>
+               <p>Tyrannidis Pontificiae secularis demonstratio apologetica, calumniarum ac ineptia<g ref="char:EOLhyphen"/>rum nebulis, quibus Adamus Contzius Iesuita Moguntinus solem huius veritatis in palma seculari Lutherano-Euangelica detectae obnubilare est conatus, opposita à M. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igismundo Euenio scholae Hallensis Rectore. Halae Saxonum ap. Michael. Oelsch<g ref="char:EOLhyphen"/>legel, in 4.</p>
+               <p>Controuersia difficilima, de imagine Dei in primo homine, statuque innocentiae, itē de Paradiso, arbore vitae, arbore scientiae mali &amp; boni, methodo Theologico-Schola<g ref="char:EOLhyphen"/>stica explicata, autore Georgio Zeamanno SS. th. D. Augustae apud Io. Kruger in 4.</p>
+               <p>Pente-Decas Citharae Dauidicae, hoc est, quindecim psalmorum, qui graduū cog<g ref="char:EOLhyphen"/>nominantur, explicatio methodica, opera Ioannis Schreiteri SS. th. D. Episcopatus Misnensis superintendentis, &amp; pastoris Wurtzensis. Lips. apud Closeman in 8.</p>
+               <p>Medulla sacrae scripturae, cuiuslibet capitis summam decastichis neruosè &amp; artifi<g ref="char:EOLhyphen"/>ciosè proponens, autore Beniamin Luppio SS. th. stud. Halae. Sax. apud Mich. Oelsch<g ref="char:EOLhyphen"/>legel, in 4.</p>
+               <p>Nouus homo, hoc est, quo, quamque mirabili semine internus siue spiritualis homo nascatur, quo nutrimento alatur &amp; crescat, donec tandem in vicum perfectum in Christo Iesu adolescat, Francofurti apud Iacobum de Zetter in 8.</p>
+               <p>Controuersia de personarum ianua Dei essentia pluralitate aduersus Georgium Eniedinum Photinianum agitata, in illustri Tubinga ventilata, autore Theodoro SS. th. D. &amp; Professore ibidem, Francofurti apud Ioann. Berner. in 4.</p>
+               <p>Eiusdem <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Caluinistic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, ho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>endorum &amp; bla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>morū <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb facs="tcp:27725:4"/>
+               <p>Ei<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> tra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ro vitae, expr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tus, ibid. 4.</p>
+               <p>Eiusdem <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> doctrinae Iohannaeae ex cap. 2. v. 1. <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> annis Apostoli concinnata, &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ac corruptelis Po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp; Photinianorum vindicata, quaestionibus illustrata, &amp; ad praxin theologicam <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> modata, pro impetrandis priuilegijs Doctoreis, publico examini exhibita, ibid. in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>Eiusdem disputatio de prouidentia &amp; causa peccati, Caluinianorum erroribus o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> posita, ibid. in 4.</p>
+               <p>Eiusdem discursus de reformatione B. Lutheri, in quo contra Pontificiorum <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lumnias ostenditur, eam non ausu priuato, temerario, &amp; inordinato, fed instinctu &amp; i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> re diuino susceptam fuisse, ibid. in 4.</p>
+               <p>Eiusdem explicatio terminorum &amp; distinctionum in arduo articulo iustification<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gratuitae hominis peccatoris coram Deo occurrentium, ibid in 4.</p>
+               <p>De Immanuele nostro D. Iesu Christo dissertatio theologica, IV. membris co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>prehensa, quorum 1. est de duobus Iesu Christi naturis. 2. de duarum naturarum vni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ne hypostatica. 3. de vnitarum naturarum communione. 4. de communicatione idi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> matum &amp; operationum diuinarum, opera Conradi Aslaci Bergensis, ibid. in 8.</p>
+               <p>Loci communes Theologici, olim collecti à Philippo Melanchthone, ibid. in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>Catechesis Apostolica, hoc est, S. Apostoli Pauli Epistola ad Romanos commenta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rio perspicuo illustrata, autore Balduino SS. Theol. Doct. Editio secunda. Witc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> apud haeredes Samuelis Seelfisch, in 4.</p>
+               <p>Commentarius in VI. Prophetas Minores, breui &amp; perspicua Paraphrasi, &amp; <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> rum communium annotatione, conscriptus à Iohanne Winckelmanno SS. Th. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Francofurti apud haeredes Zachariae Palthenij in 8.</p>
+               <p>Fasciculus tertius Dissertationū Theologicarū I. de electione &amp; vocatione no<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> ad vitam aeternam. II. de aeterna Christi Dei deitate alijsque fidei Christianae a<gap reason="illegible" resp="#keyers" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> autore Iusto Feurbornio SS. Th. Doctore, Giesae apud Casparum Chemlinu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p>Vindicatio locorum potissimum V.T. à corruptelis Pontificiorum, &amp; in his <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> puè Bellarmini, Caluinianorum, Photinianorum, Iudaeorum, &amp;c. ex originali <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> linguae Hebraicae proprietate, adornata à D. Christoph. Heluico, ibid. in 8.</p>
+               <p>Examen duodecim articulorum à rebellium vulgo quondam sparsorum, p<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> annem Brentium institutum, &amp; ad quendam Germaniae Principem perscriptu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bellus Ecclesiasticis atque Politicis apprime vtilis: editus à M. Melchiore Shae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ecclesiae Mentzingensis Pastore, Noribergae apud Ioh. Frid. Sartorium, in 8.</p>
+               <p>Catechismus, siue parua Biblia è fontibus Sacrae Scripturae exceptus: autore Ioa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ne Giessenio SS. Th. Doctore, Argentinae apud Paulum Ledertz.</p>
+               <p>Eiusdem Pia &amp; perspicua Catechismi B. Lutheri defensio, Contra Iesuitas <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Zwinglio-Caluinianos, ibid. &amp; apud Caspar. Chemlin, in 8.</p>
+               <p>Onus Ecclesiae temporibus hisce deplorandis Apocalypseos suis aequè conuenien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Turcarumque incursui iam grassanti accommodatum, opus compilatum anno 1519 <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> typis excusum anno 1531. nunc denuo publicatum. Francofurti apud Gotofr. Tam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pach. in 4.</p>
+               <p>Epithalamium sacrum nuptijs ijs spiritualibus quas coelestis sponsus Iesus Chri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> stus celebrat in his terris, cum castissima sponsa Ecclesia, decantatum à Salamone re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ge Hierosolymorum in suo Cantico Canticorum, in tabulas redactum per Ioanner<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enium, Braeslae apud Dauidem Molle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a fol.</p>
+               <pb facs="tcp:27725:5"/>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Praedicator, commentarij in Acta Apostolorum &amp; <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cobi, Petri, Ioannis, &amp; Iudae Canonici Epistolas, &amp; Apo<g ref="char:EOLhyphen"/>calyps<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> sermonum fundamentum Aureum, Impressum Antwerpiae, pro Societate Bibliopolarum Londinens. in fol.</hi>
+               </p>
+               <p>
+                  <hi>R.P. Ioannis Marianae è Soc. Ies. Theologi Scholia in vtrunque Testamentum, cum textu Sacrorum Bibliorum iuxta vulgatam editionem Sixti Quinti Pont. Max. inter<g ref="char:EOLhyphen"/>serto. Coloniae apud Ioan. Kink. in fol.</hi>
+               </p>
+               <p>
+                  <hi>Ferdinandi Quirini de Salazar Conchensis Soc. Ies. Expositio in Prouerbia Salomonis Tomi Duo. ibid. in fol.</hi>
+               </p>
+               <p>
+                  <hi>Conciones siue conceptus Theologici ac praedicabiles de sanctorum festiuitatibus anni to<g ref="char:EOLhyphen"/>ius, autore R.D. Petro Bessaeo SS. Th. Doctore, Regis Galliarū Oratore, tomitres. ib. in</hi> 4</p>
+               <p>
+                  <hi>Praxis bonarum intentionum omnibus Christi fidelibus spiritualis progressus studiosis per<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ilis pri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o à Societatis Iesu patre Gallicè edita, ac post Latinè traducta. ibid. in</hi> 12.</p>
+               <p>
+                  <hi>Sacra<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m de stupenda horrendaque suppli<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>m apud inferos aeternitate: itemque Sacra<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ormidabile de multitudine reproborum &amp; electorum paucitat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ibid. in</hi> 12.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Augustini Hipponensis confessionum f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>esculi, resectis reru<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ficilium spi<g ref="char:EOLhyphen"/>nis <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olas distributi, ibid. in</hi> 12.</p>
+               <p>
+                  <hi>Modus piè viuendi ex varijs opusculis spiritualibu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dectiss. &amp; religi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> R.P.F. Ludouici Granatensis, ibid. in</hi> 12.</p>
+               <p>
+                  <hi>Ecclesiae Anglicanae reformatae Basis impost<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> etiam discutitu Consilium <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctionis in Angliam M. Antonij de Dominis quon<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rchiepiscopi nunc Archiapo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, ibid.</hi> 16.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reum Diurnale Concionatorum, in quo dieb<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>obilioribus ma<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oncionandi breuiter suggeritur, autore Ge<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Braitenberg, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>d. in</hi> 16.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tale Romanum Pauli V. Pont. Max. iu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ficia miraculosa tam vetera quàm recen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rae Weyerensis, in ditio<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> territorio Imperialis Ecclesiae Bamberg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Friderico Fornero, Episcopo <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onensi, suffraganeo Bambergensi, SS. Th <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ibid in</hi> 4.</p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Thiofridi Ordinis S. Benedicti, Abbatis &amp; Domini Esternacensis, Flores Epita<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Sanctorum libri quatuor: autore Ioanne Rober<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Ies. ibid. in</hi> 4.</p>
+               <p>
+                  <hi>Sacrae Imaginis Deiparae virginis, quae in monte Guar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Bononiae adiacente in S. Lucae <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cis sui templo asseruatur Historia: autore Ascanio Persio, ibid. in</hi> 4.</p>
+               <p>
+                  <hi>De vera Christi Iesu Dei &amp; hominis imitatione, autore P. Antonio Gaudier Soc. Iesu. Parisiis apud Sebast. Cramoisy, in</hi> 12.</p>
+               <p>
+                  <hi>De arte bene moriendi libri duo, autore Rober<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o S. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.E. Ca<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>armino, è <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ec. Ies. ibid. in</hi> 12.</p>
+               <p>
+                  <hi>Bre<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iarium iuxta ritam Sacri Ordinis FF. praedicatorum S.P.N. Dominio ib. in</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</p>
+               <p>
+                  <hi>Officia propria Sancti Francisci de Paulo fundatoris ordinis minimorum: ad formam breuiarij Romani, ex decreto SS. Concilij Tridentini restituti redacta, ibid. in</hi> 8.</p>
+               <p>
+                  <hi>Ioannis de Pineda Hispalensis è Soc. Ies. in Ecclesiasten Cōmentariorū liber vnus. ib. in fo.</hi>
+               </p>
+               <p>
+                  <hi>Veterum Rabbinorum in exponendo Pentateucho modi Tredecim: autore R.P. Ioanne Arnulpho è Soc. Iesu, ibid. in</hi> 4.</p>
+               <p>
+                  <hi>De Autore &amp; essentia Protestanticae Ecclesiae religionis libri duo: autore Richardo Smithaeo. SS. Th. Doctore, ibid in</hi> 8.</p>
+               <pb facs="tcp:27725:5"/>
+               <p>Hieronymi Merc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> sa medicinalia, 3. tomis comprehensa, ibi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+               <p>Marsilij Cagnati Veron. Medici Romani in aphor. Hypp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>11. secti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mae Germana &amp; noua expositio, quae totam Aphoristicam pharmacandi doct<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reclusam habet, ibid. in 8.</p>
+               <p>Francisci Collurij Veliterni Med. ac Philosophi Romani de querelis Neph<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ex renum calculo libri tres, ibid. in 8.</p>
+               <p>Hieronymi Mercurialis Foroliuiensis sui seculi Archiatri in omnes Hyppocratis <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> photisinorum libros praelectiones Patauinae, ibid. in fol.</p>
+               <p>Antidotarium Bonomen. Me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ic. collegij diligenter em<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndatum &amp; auctum, ib<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+               <p>Antonij Coelij Medici ac Philo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>phi Messanens<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> introductio vniuersalis ad <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dicam fac<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tatem, ibid. in 4.</p>
+               <p>Iohannis Bauhini &amp; Io. Henrici Cherleri Phil &amp; Med. D. D. Historiae plan<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> generalis nouae &amp; absolutissimae 50 annis elaboratae prodromus, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgent. apud <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>der<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z in 4.</p>
+               <p>Assertio medicinae vniuersalis aduersus vniuersalem vulgo iactatam a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore Rodo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pho Goclenio Med. D. Francofurti apud Ioan. Carol. Vnckel, in 4.</p>
+               <p>Opera chirurgica Hieronymi Fabritij ab aqua pendente Medici anatom <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgi, in 2. partes diuisa, ibid. apud haeredes Ionae Rosae, in 4.</p>
+               <p>Magni Hyppocratis Medicorum omnium facile principis opera omnia, ibi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Aubrios, in fol.</p>
+               <p>Iulij Caesaris Baricelli à sancto Marco D. Medici &amp; Philosophici hort<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s ge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> siue arcanorum valdè admirabilium tam in arte Medica quàm reliqua philo. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> compendium. Coloniae apud Matthaeum Smitz, in 12.</p>
+            </div>
+            <div type="part">
+               <head>Libri Politici, Historici &amp; Geographici.</head>
+               <p>HEroologia Anglica (opus diu desideratum, nunc ad finem perductum) hoc <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Clatissimorum aliquot Anglorum, qui floruerunt ab anno 1500. vsque ad 16<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Viuae Effigies, Vitae &amp; Elogia: In aere elegantissimè incisae à Crispino Passaeo Vltr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>iectino, Augustae Trinobantum. Vaeneunt apud <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocietatem Bibliopolarum, in fol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>Mercurij Gallobelgici Sleidano succentureati, rerum à Sleidano ad mortem M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>thiae Caes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is vsque gestarum relationem historicam continens Tomus I. II. III <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> V. VI. VII. Autore M. Gotardo Arthusio Dantiscano, Francofurto apud C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dum Tampachium, in 8.</p>
+               <p>Mercurij Gallobelgici succentureati, siue rerum à <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>undinis Francofurte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ni 1619. au<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umnalibus, vsque ad anni 1620. Vernales gestarum, historie <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nis continuatae, tomi 13 liber 1. autore M. Gotardo Arthus, cum figuris ae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cof. apud Sigismundum Latomum, in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>Principis Euangelici lib<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tres, autore Alphonso Carillo Hispano, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Kinck. in 4.</p>
+               <p>Syllogo N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ismatum elegantiorum quae diuersi reges, principes, comites, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> publicae diuersas ob causas ab anno 1600. vsque ad annum 1600 cudi feceru<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a &amp; historica narrat<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> illustrata, opera &amp; studio Ioannis Iacobi Luck<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gentoratensis, A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ae apud Ioannem Repp. in fol.</p>
+               <p>Sacrae im<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ginis Deiparae virginis quae in monte Guardiae Bononiae adiace<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>is sui templo anct<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>scanio P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sio, Coloni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inck. in 4.</p>
+               <pb facs="tcp:27725:6"/>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> natione Sco<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>undus, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>per in Belgium felici S. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> afflatu delatus, &amp; in familiam Seraphici Patris S. Francisci Cappuccinorum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>criptus, sub nomine F. Archangeli, ibid. in 12.</p>
+               <p>Pontifex Romanus, seu de praestantia, officio, autoritate, virtutibus, felicitate, rebus<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ptaeclarè gestis summorum pontificum, à D. Petro vsque ad Paulum V. commen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius, autore R.P. Fr. Abrahamo Bzouio, Coloniae apud Anton. Boetzer. in fol.</p>
+               <p>M. Ant. Petilij Montecoruinatis IC. Neapolitani Exarchiae, siue de exterioris prin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pis munere libri X. ibid. in 4.</p>
+               <p>Melissa Religionis Pontificiae, eiusdemque Apotrope: Elegijs decem conclusa, Aut. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or. Goodwin Angl. Londini Impensis Nathanaelis Butter, in 4.</p>
+               <p>Confirmatio Imperatorum Romanor: pro libero exercitio, Religionis Augustanae <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfessionis in Silesia in 4.</p>
+               <p>Bohemica Iura aduersus Informatorem defensa. Hoc est, responsio ad falso dictam <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>formationem <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontra scripta ab Ordinibus Bohemiae edita. Typis clanculum vulga<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m, in 4.</p>
+               <p>Aristot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls de Rethorica, seu arte Dicendi Libri tres, Graecolat. Contextu Graeco, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>exe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>plaria selectiora emendato, Latino, Paraphrasi, vbi opus, intertexto, &amp; Au<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> D<seg rend="sup">r</seg>. Goulston, Londini Typis Eduardi Griffini, in 4.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnales sacri, &amp; ex profanis praecipui, ab orbe condito ad eundem Christi passio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emptum, tomus 1. &amp; 2. autore Augustino Tormillo congregationis S. Pauli <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>co regulari, Antuerpiae apud Balth. Moretum &amp; consortes, in fol.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arciae Sylua Figuerua Philippi tertij Hispaniarum Indiarumque regis ad Persiae <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> legati derebus Persarum Epistola, Antuerpiae apud Balthasarum Moretum &amp; <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> sortes, in 8.</p>
+               <p>Chronicon Riddagshusense, siue eorum qui antiquo celeberrimoque illi Mona<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctio Riddagshusen, à prima eius fundatione in praesentem vsque diem per annos sci<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cet 1574. praefuerunt Abbatum Catalogus, autore Henr. Meibomio, Helmstadij <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ud Zach. Raben, in 4.</p>
+               <p>Vindiciae Billinganae siue demonstratio euidens, Hermannum Billingum primum <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ottone M. Imperatore, Saxoniae Borealis institutum Ducem, non equestris ordinis <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ominem, nedum pauperis agricolae filium, sed ex illustri familia oriundum fuisse, eo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> autore, ibid. in 4.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roaulium tubae pacis, occentae Scioppiano sacri belli classico, Salpiste Theodosio <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>renico Norico, historiarum &amp; patriae studioso, Argentinae apud Wirioth. in 4.</p>
+               <p>Eiusdem <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uba pacis, occenta Scioppiano sacri belli classico, ibid. in 4.</p>
+               <p>Politicorum aphorismorum sylua, ex optimis quibusque scriptoribus collecta per <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbertum Danaeum, Lugduni Batauorum apud Ioan. Maire, in 12.</p>
+               <p>Volumen 4. disputationum Historico politico-iuridicarum, in quo de regis Rom. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ione ac designatione, itemque iurisdictione, &amp;c. Basileae apud Kônig. in 4.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uaestionum praecipuè politicarum ex Agricola C. Cornelij Taciti collectarum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecas 3. autore Rodulpho à Dietrichstein, L.B. in Holenburg. Argent. apud Ber<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, in 4.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onsualia, hoc est, de concilijs, consiliaris, &amp; consilijs doctrina politica, autore Hie<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>no Eluero, quondam D. Matthiae, nunc Ferdinandi II Rom. Imp. consiliario <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulico, Francofurti apud Sch<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, in 4.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>issimum sacrae scriptura <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> historicorum <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb facs="tcp:27725:6"/>
+               <p>
+                  <hi>Ciuis Christianus, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iue Peregrini quon<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Philippi Garnerij Aurelianensis Gemmula Gallicae Lingua, Latine, Gallic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Germanicè adornatae. ibid. in</hi> 8.</p>
+               <p>
+                  <hi>Christiados Libellus, denuò recognitus &amp; locupletatus ab autore Ioachimo a <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I.V.D. Witebergae apud haeredes Samuelis Seelfis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h, in</hi> 8.</p>
+               <p>
+                  <hi>M.T. Ciceronis Epistolae ad familiares, à Dionysio Lambino emendatae, ibid. in</hi> 8.</p>
+               <p>
+                  <hi>Prosodiae Ioannis Claij Hertzbergensis Libri tres, ibid. in</hi> 8.</p>
+               <p>
+                  <hi>Disputationes de triplici vniuerso, coelesti, elementari, &amp; mixto, paruo homine, intimio<g ref="char:EOLhyphen"/>rasecreta Philosophiae perscrutantes, &amp; naturae mirabilia aperientes, &amp;c. autore F. Mi<g ref="char:EOLhyphen"/>chaele Zanardo Bergomense: annexis commentarijs &amp; quaestionibus, in Logicam, Physi<g ref="char:EOLhyphen"/>cam, animam, &amp; metaphysicam Aristotelis. Coloniae apud Antonium Boetzerum, in</hi> 4.</p>
+               <p>
+                  <hi>Philosophiae speculatricis Aristotelis Stagiritae, pars</hi> 2. <hi>&amp;</hi> 3. <hi>continens compendiariam resolutionem octo librorum Physicorum, quatuor de ortu, &amp; interitu, quatuor Meteoro<g ref="char:EOLhyphen"/>logicorum, trium de anima, &amp; paruorum naturalium, &amp; duodecim librorum Metaphy<g ref="char:EOLhyphen"/>ficorum, autore Matthaeo Hoen Nouesiensi, ibid. in</hi> 8.</p>
+               <p>
+                  <hi>Hermes Logicus Dieterichianus, siue tractatus, in quo termini plerique omnes artis Logicae, iuxta eam seriem qua in institutionibus Dialecticis D. Conradi Dieterici, propo<g ref="char:EOLhyphen"/>nuntur, diligenter exponuntur, autore M. Ioanne Philippo Ebelio Gymnasii Vlmari Con<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ctore. Giesae apud Nicol. Hampelium, in</hi> 8.</p>
+               <p>
+                  <hi>Collegium Ethicum Christiani Liebenthal I.V.D. &amp; in inclyta Acad. Giesena eloquen<g ref="char:EOLhyphen"/>tiae Professoris, ibid. in</hi> 4.</p>
+               <p>
+                  <hi>Institutio de eloquentia generalis &amp; specialis de Poetica &amp; Oratoria, autore Ioanne Tesmaro. Bremae apud Thomam Villerium in</hi> 8.</p>
+               <p>
+                  <hi>Iacobi Martini Professoris Academici de loco libri duo, contra quosdam Neotericos, item de communicatione proprij liber vnus, Barth. Keckermanno oppositus. Witeberga a<g ref="char:EOLhyphen"/>pud Zachariam Schurer, in</hi> 8.</p>
+               <p>
+                  <hi>Christophori Pflugij Epistola monitoria, siue praefatio ad Lectorem, nouae editioni Plau<g ref="char:EOLhyphen"/>ti, quae modo adornatur, praeponenda: in quafatuiatas Apologiae I.P. Parei contra I. Gru<g ref="char:EOLhyphen"/>terum V.C. detegitur, ibid. in</hi> 8.</p>
+               <p>
+                  <hi>Tertia pars Syluae Vocabulorum &amp; Phrasium: autore M. Henrico Decimatore P.L. Editio quarta. Lipsiae apud Henning. Gros. Seniorem, in</hi> 8.</p>
+               <p>
+                  <hi>In originem, vsum foedum, &amp; ritum profanum Bacchanaliorum, Oratio: autore Am<g ref="char:EOLhyphen"/>brosio de Bruyn. Londini in</hi> 4.</p>
+               <p>
+                  <hi>Oratio perstringens breuiter Historiolam Canierae Gallicae, speciatim vero Parisier<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s istius horribilis, quae incidit in annum</hi> 1572. <hi>ibid. in</hi> 4.</p>
+               <p>
+                  <hi>Commentarius in veterem quam vocant Logicam, hoc est, libros Categoriarum. &amp; de Interpretatione, vt &amp; praefixam Isagogen Porphyrianam: autore D. Henrico Hopfnero. Lipsiae apud haeredes Thomae Schureri, in</hi> 8.</p>
+               <p>
+                  <hi>Theodorici Morelli Campani Enchiridion oratorium ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erborun copiam &amp; elegan<g ref="char:EOLhyphen"/>tiam Latini Sermonis parandam fructuosissimum, editum à M. Michaele Ziegenhorn, ibid. apud Eliam Rehefeldt &amp; Ioan. Gros. in</hi> 12.</p>
+               <p>
+                  <hi>M.T. Ciceronis Epistolae ad familiares. Basileae apud Ludouicum Kônig, in</hi> 12.</p>
+               <p>
+                  <hi>Demosthenis orationes Olynthiacae &amp; Philippicae, Graecè &amp; Latinè simul editae, cum ar<g ref="char:EOLhyphen"/>gumentis L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>banij, ibid in</hi> 12.</p>
+               <p>
+                  <hi>Compe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 1. <hi>Grammatices,</hi> 2. <hi>Dialectices,</hi> 3. <hi>Rhetori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> etices t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:27725:7"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>Doctore, ibid. in</hi> 8.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uo Dialectica studiosae iuuentuti ad Logicam praeparan<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, conscripta à R P. Philippo du Trieu è Soc. Iesu, ibid. in</hi> 8.</p>
+               <p>
+                  <hi>M.T. Ciceronis Topica ad Trebatium, Oratoriae partitiones, de Oratore ad Q. Fra<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m, lib.</hi> 3. <hi>Brutus, siue de claris oratorib. lib.</hi> 1. <hi>Orator ad Brutum, initium libri de opti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> genere oratorum, ibid. in</hi> 8.</p>
+               <p>
+                  <hi>Ioannis Combachij Wetterani, Profess. Marpurg. Liber de Homine, Marpurgi apud Rudolphum Hutwelker, in</hi> 8.</p>
+               <p>
+                  <hi>Septimana Philosophi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, quae Aenigmatica aurecta de omni naturae genere à Salomone Israelitarum sapientissimo rege, &amp; Arabiae regina Saba, nec non Hyramo Tyri principe; sibi inuicem in modum colloquij proponuntur &amp; enodantur: autore Michaele Meyero M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d. Doct. Francofurti apud Lucam Iennis, in</hi> 4.</p>
+               <p>
+                  <hi>Hieronymi Flueri, olim Matthiae, nunc Ferdinandi II. Imp. Consiliarij Aulici Deam<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tionis variae quibus ruralis Philosophia ad vnguem discutitur, multarumque Theo<g ref="char:EOLhyphen"/>logicarum, Ethicarum, Politicarum, Physicarum, Metaphysicarum, &amp;c. meditationum promptuarium extruitur, ibid. in</hi> 8.</p>
+               <p>
+                  <hi>Anicij Manlij Torquati Seuerini Boethij viriclariss. de consolation<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Philosophiae Li<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 5. <hi>editi à Petro Bertio. Lugd. Batau. apud Ioan. Maire, in</hi> 16.</p>
+               <p>
+                  <hi>Cursus Philosophici Encyclopaedia libris</hi> 27 <hi>complectens vniuersae Philosophiae metho<g ref="char:EOLhyphen"/>dum serie praeceptorum, regularum, &amp; commentariorum perpetua, autore Ioan-Henrico Alstedio. H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bornae apud Christoph. Coruinum, in</hi> 4.</p>
+               <p>
+                  <hi>Quaestionum Rhetoricarum Libri duo, pro Schola Altenburgensi, autore M. Ioanne Hamerico Scholae eiusdem Rectore Halae Saxonum apud Mich. Oelschl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> gelium, in</hi> 8.</p>
+               <p>
+                  <hi>Definitiones, diuisiones, ac re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lae ex Logica &amp; Physica Aristotelis, Parisiis apud Se<g ref="char:EOLhyphen"/>bast. Cramoisy, in</hi> 16.</p>
+               <p>
+                  <hi>Casperij Geuartij Electorum libri</hi> 3 <hi>In<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ibus plurima veterum Scriptorum loca ob<g ref="char:EOLhyphen"/>scura &amp; controuersa explicantur, illustrantur, &amp; emendantur, ibid. i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 4.</p>
+               <p>
+                  <hi>Iacobi Grets<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ri è Soc. Ies. de recta partium orationis <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onstructione, ibid. in</hi> 16.</p>
+               <p>
+                  <hi>Vacationes autumnales, siue de perfecta Oratoris <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctione &amp; pronunciatione Libri autore Ludouico Cresollio è Soc. Ies. ibid. in</hi> 4.</p>
+               <p>
+                  <hi>Aristotelis Historia de Animalibus, Iulio Caesare S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ligero interprete, cum eiusa Commentarijs, ibid. in fol.</hi>
+               </p>
+               <p>
+                  <hi>Calligraphia oratoria linguae Graecae, ad proprietatem, elegantiam, &amp; copiam Graeci Sermonis parandam vtilissima: autore Ioanne Posselio ibid in</hi> 8.</p>
+               <p>
+                  <hi>Theatrum voterum Rhetorum, Oratorum, Declamatorum quos in Graecia nomina<g ref="char:EOLhyphen"/>bam</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>expositum libris</hi> 5. <hi>autore Ludouico Cressollio è Soc. Ies. ibid. in</hi> 8.</p>
+               <p>
+                  <hi>Dionysii <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ij Aurelianensis è Soc. les. Orationes, ibid in</hi> 12.</p>
+               <p>
+                  <hi>Luciani Sa<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>satensis opera omnia in duos tomos diuisa, edita à Ioanne Benedicto Med. Doct. Parisis apud Abraham<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m Pacard. in</hi> 4.</p>
+               <p>
+                  <hi>C. Plinij Cac. Sec. Epist. lib.</hi> 9. <hi>ei<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dem &amp; Traiani Imp. Epist. amoebaeaeitem, Claudia<g ref="char:EOLhyphen"/>ni Panegyrici. Gen<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> apud locorum Sto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r in</hi> 12.</p>
+               <p>
+                  <hi>M.T. Cicero is Epistolae ad familiares, ibid an</hi> 16.</p>
+               <p>
+                  <hi>Eiusd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m de officij libri</hi> 3 <hi>abi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an</hi> 16.</p>
+               <p>
+                  <hi>Aristotelis organum Grae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>è &amp; Latinè. Comentario analy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>co &amp; paraph<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>co <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ra<g ref="char:EOLhyphen"/>cum à M. Ludouico Luci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Henri petrum in</hi> 4. <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gante<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, copio <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o Manu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <pb facs="tcp:27725:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
